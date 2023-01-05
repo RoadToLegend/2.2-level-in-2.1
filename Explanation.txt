@@ -1,0 +1,13 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf610
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww37900\viewh20820\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Hi so I have a idea that might sound crazy but I want to make a 2.2 level in 2.1 sounds impossible but I think it should be possible actually.\
+Because we could make the player using pixels and scale them accordingly ofc there is no way of getting the icon of the player so we are going to use default icons for it\
+Then just make the physics for the game with triggers and because I suck at coding I tried making jumping just with hand placed triggers and it should work \
+By placing collision blocks we can get collisions of the \'84player\'93 and the spikes/blocks \
+Then we can just recreate the other game modes and features of 2.2 like camera zoom that we can do by scaling objects and just triggering the right ones player direction we can make by just moving the \'84player\'93 in the right direction so if you can help us it\'92ll be great\
+}
